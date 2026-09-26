@@ -1,0 +1,13 @@
+{
+  "name": "rivet-node-test",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node --check server.js",
+    "test": "node --test",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

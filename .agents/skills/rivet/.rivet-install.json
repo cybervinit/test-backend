@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "package": {
+    "name": "@agilno/rivet",
+    "version": "0.1.0-alpha.0"
+  },
+  "target": "codex",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "5c349ee46602ef3b6a7d12ceb860cd4df573a700f7860e1c91afeea9edb87887"
+    }
+  ]
+}
